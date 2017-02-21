@@ -75,3 +75,4 @@
 
 var f = v => {console.log(1)};
 console.log(f());
+var s = "this is test branches";
